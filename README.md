@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kapitonov-Aleksandr
 - 👀 I’m interested in hasanstvo
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning programming :(
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
